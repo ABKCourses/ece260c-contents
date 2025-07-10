@@ -1,8 +1,8 @@
-# ECE 260C
+# ECE 260C (Course Contents)
 
 ![](assets/booklogo.webp)
 
-This repository contains files for the ECE 260C course. [Review the course website for more information.](https://abkcourses.github.io/ece260c)
+This repository contains files for the ECE 260C course. [Review the main course website for more information.](https://abkcourses.github.io/ece260c)
 
 ## Documents
 
